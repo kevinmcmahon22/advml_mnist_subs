@@ -12,8 +12,7 @@ Final project for CSE 891: Adversarial Machine Learning
 
 
 ## Commands to train models
-add time in front when running on Azure to see timing
-    NO NEED, creating an experiment shows run time and many more useful stats like output logs
+Don't need to add time to command when running on Azure ML Studio, creating an experiment shows run time and more useful stats like output logs
 
     $ python train_trades_mnist.py
 
