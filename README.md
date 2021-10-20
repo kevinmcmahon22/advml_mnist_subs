@@ -15,11 +15,13 @@ Final project for CSE 891: Adversarial Machine Learning
 add time in front when running on Azure to see timing
     NO NEED, creating an experiment shows run time and many more useful stats like output logs
 
-$ python train_trades_mnist.py
-$ python train_trades_fashion_mnist.py
+    $ python train_trades_mnist.py
 
-$ python train.py --config config/mnist_crown.json
-$ python train.py --config config/fashion_mnist_crown_ibp.json
+    $ python train_trades_fashion_mnist.py
+
+    $ python train.py --config config/mnist_crown.json
+
+    $ python train.py --config config/fashion_mnist_crown_ibp.json
 
 
 ### Timing
